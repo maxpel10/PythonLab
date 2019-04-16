@@ -1,0 +1,268 @@
+Informacion BD
+Cantidad de usuarios: 4
+
+Acceso:
+P-Admin
+Ad1
+D-josepereza
+123456
+A-a
+a
+A-b
+2
+-
+
+Nombre Tablas:
+T_Alumnos
+0
+T_Materias
+1
+-
+
+Tablas
+
+Alumnos:
+1001
+Rodrigo Pellegrino
+38750962
+Mitre 52
+2664727467
+rodri.pelle@gmail.com
+3 3 1995
+4
+5 9 2018
+0 0 0
+MA
+10
+A-rodri.pelle
+123456
+
+1000
+Maxi Pellegrino
+40722494
+Mitre 52
+2664361979
+maxi.101997@gmail.com
+10 11 1997
+4
+15 3 2011
+15 11 2018
+MA
+16
+A-maxpel10
+maxi123
+
+1002
+aa
+1
+231
+1235
+maxi.101984@gmail.com
+10 11 1997
+1
+1 2 3
+1 2 3
+MA
+3
+A-a
+a
+
+1003
+B
+2
+b
+2
+123@gmail.com
+2 3 4
+4
+1 2 9
+0 0 0
+MA
+4
+A-b
+2
+
+-
+
+Materias:
+1
+1000
+Matematica
+9 9 10
+
+2
+1000
+Lengua
+7 8 7
+
+3
+1000
+Fisica
+9 10 9
+
+4
+1000
+Quimica
+8 8 8
+
+5
+1000
+Biologia
+9 9 9
+
+6
+1000
+Etica
+7 10 8
+
+7
+1000
+Historia
+9 7 9
+
+8
+1000
+Geografia
+6 10 9
+
+9
+1000
+Computacion
+5 5 5
+
+1
+1001
+Matematica
+0 0 0
+
+2
+1001
+Lengua
+0 0 0
+
+3
+1001
+Fisica
+0 0 0
+
+4
+1001
+Quimica
+0 0 0
+
+5
+1001
+Biologia
+0 0 0
+
+6
+1001
+Etica
+0 0 0
+
+7
+1001
+Historia
+0 0 0
+
+8
+1001
+Geografia
+0 0 0
+
+9
+1001
+Computacion
+0 0 0
+
+1
+1002
+Matematica
+0 0 0
+
+2
+1002
+Lengua
+0 0 0
+
+3
+1002
+Fisica
+0 0 0
+
+4
+1002
+Quimica
+0 0 0
+
+5
+1002
+Biologia
+0 0 0
+
+6
+1002
+Etica
+0 0 0
+
+7
+1002
+Historia
+0 0 0
+
+8
+1002
+Geografia
+0 0 0
+
+9
+1002
+Computacion
+0 0 0
+
+1
+1003
+Matematica
+0 0 0
+
+2
+1003
+Lengua
+0 0 0
+
+3
+1003
+Fisica
+0 0 0
+
+4
+1003
+Quimica
+0 0 0
+
+5
+1003
+Biologia
+0 0 0
+
+6
+1003
+Etica
+0 0 0
+
+7
+1003
+Historia
+0 0 0
+
+8
+1003
+Geografia
+0 0 0
+
+9
+1003
+Computacion
+0 0 0
+
+-
